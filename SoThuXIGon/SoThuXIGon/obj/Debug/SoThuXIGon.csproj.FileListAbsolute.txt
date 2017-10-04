@@ -1,0 +1,10 @@
+D:\github\so-thu-sai-gon-phamhongnhatan\SoThuXIGon\SoThuXIGon\bin\Debug\SoThuXIGon.exe.config
+D:\github\so-thu-sai-gon-phamhongnhatan\SoThuXIGon\SoThuXIGon\bin\Debug\SoThuXIGon.exe
+D:\github\so-thu-sai-gon-phamhongnhatan\SoThuXIGon\SoThuXIGon\bin\Debug\SoThuXIGon.pdb
+D:\github\so-thu-sai-gon-phamhongnhatan\SoThuXIGon\SoThuXIGon\obj\Debug\SoThuXIGon.csprojResolveAssemblyReference.cache
+D:\github\so-thu-sai-gon-phamhongnhatan\SoThuXIGon\SoThuXIGon\obj\Debug\SoThuXIGon.Form1.resources
+D:\github\so-thu-sai-gon-phamhongnhatan\SoThuXIGon\SoThuXIGon\obj\Debug\SoThuXIGon.Properties.Resources.resources
+D:\github\so-thu-sai-gon-phamhongnhatan\SoThuXIGon\SoThuXIGon\obj\Debug\SoThuXIGon.csproj.GenerateResource.Cache
+D:\github\so-thu-sai-gon-phamhongnhatan\SoThuXIGon\SoThuXIGon\obj\Debug\SoThuXIGon.csproj.CoreCompileInputs.cache
+D:\github\so-thu-sai-gon-phamhongnhatan\SoThuXIGon\SoThuXIGon\obj\Debug\SoThuXIGon.exe
+D:\github\so-thu-sai-gon-phamhongnhatan\SoThuXIGon\SoThuXIGon\obj\Debug\SoThuXIGon.pdb
