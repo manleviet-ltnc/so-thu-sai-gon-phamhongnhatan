@@ -41,13 +41,12 @@ namespace SoThuXIGon
             else
                 e.Effect = DragDropEffects.Move;
         }
-        bool isItemChanged = false;
         private void lstDanhSach_DragDrop(object sender, DragEventArgs e)
         {
             if (e.Data.GetDataPresent(DataFormats.Text))
             {
                 bool test = false;
-                for (int i=0; i < lstDanhSach.Items.Count; i++)
+                for (int i = 0; i < lstDanhSach.Items.Count; i++)
                 {
                     string st = lstDanhSach.Items[i].ToString();
                     string dt = e.Data.GetData(DataFormats.Text).ToString();
