@@ -41,7 +41,7 @@ namespace SoThuXIGon
             else
                 e.Effect = DragDropEffects.Move;
         }
-
+        bool isItemChanged = false;
         private void lstDanhSach_DragDrop(object sender, DragEventArgs e)
         {
             if (e.Data.GetDataPresent(DataFormats.Text))
