@@ -54,7 +54,7 @@ namespace SoThuXIGon
                     if (dt == st)
                         test = true;
                 }
-                if (test = false)
+                if (test == false)
                 {
                     int newindex = lstDanhSach.IndexFromPoint(lstDanhSach.PointToClient(new Point(e.X, e.Y)));
                     lstDanhSach.Items.Remove(e.Data.GetData(DataFormats.Text));
